@@ -1,9 +1,7 @@
 /*
 MOBILE SIZE ==================== */
-@media screen and (max-width: 700px) {
-    h1 {
-        color: blue;
-    }
+h1 {
+    color: aqua;
 }
 
 /*
