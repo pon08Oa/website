@@ -1,0 +1,15 @@
+/*
+MOBILE SIZE ==================== */
+@media (max-width: 700px) {
+    h1 {
+        color: blue;
+    }
+}
+
+/*
+DESCTOP SIZE ==================== */
+@media (min-width: 701px) {
+    h1 {
+        color:blueviolet
+    }
+}
