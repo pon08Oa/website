@@ -55,6 +55,11 @@ nav.open-menu {
     height: 100%;
 }
 
+.main-menu {
+    line-height: 5;
+    font-size: large;
+}
+
 .menu-list {
     color: #fff;
     text-decoration: none;
