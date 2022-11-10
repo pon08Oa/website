@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'azuki'; 
+  src: url('../fonts/azuki.ttf')
+  format('truetype');
+}
+
 /*
 MOBILE SIZE ==================== */
 
