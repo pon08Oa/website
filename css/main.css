@@ -59,3 +59,9 @@ nav.open-menu {
     line-height: 5;
     font-size: large;
 }
+
+.menu-list {
+    color: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+}
