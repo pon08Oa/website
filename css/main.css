@@ -16,4 +16,11 @@ DESCTOP SIZE ==================== */
 ALL SIZE =============== */
 header {
     background-color: #333;
+    background-size: auto;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.menu-btn {
+    display: block;
 }
