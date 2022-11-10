@@ -9,10 +9,16 @@ DESCTOP SIZE ==================== */
 
 /*
 ALL SIZE =============== */
+
+/* -----all----- */
+li {
+    list-style-type: none;
+}
+
+/* -----header----- */
 header {
     background-color: #333;
     background-size: auto;
-    padding: 0.5rem;
     text-align: left;
 }
 
