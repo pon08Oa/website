@@ -38,3 +38,7 @@ nav {
     width: 0;
     transition: 0.5s;
 }
+
+nav.open-menu {
+    width: 100%;
+}
