@@ -66,3 +66,7 @@ nav.open-menu {
     text-decoration: none;
     white-space: nowrap;
 }
+
+.footer {
+    background-color: #999;
+}
