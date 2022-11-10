@@ -48,6 +48,7 @@ nav {
     text-align: center;
     width: 0;
     transition: 0.5s;
+    height: 100%;
 }
 
 nav.open-menu {
