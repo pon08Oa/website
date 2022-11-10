@@ -6,7 +6,7 @@ h1 {
 
 /*
 DESCTOP SIZE ==================== */
-@media screen and (min-width: 701px) {
+@media screen and (min-width: 901px) {
     h1 {
         color: blueviolet;
     }
