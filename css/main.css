@@ -65,6 +65,7 @@ nav.open-menu {
 .main-menu {
     line-height: 5;
     font-size: large;
+    font-family: 'azuki';
 }
 
 .menu-list {
