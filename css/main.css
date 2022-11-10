@@ -52,4 +52,10 @@ nav {
 
 nav.open-menu {
     width: 50%;
+    height: 100%;
+}
+
+.main-menu {
+    line-height: 5;
+    font-size: large;
 }
