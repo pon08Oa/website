@@ -9,6 +9,10 @@ DESCTOP SIZE ==================== */
 
 /*
 ALL SIZE =============== */
+* {
+    margin: 0;
+    padding: 0;
+}
 
 /* -----all----- */
 li {
