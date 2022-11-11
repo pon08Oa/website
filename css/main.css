@@ -42,6 +42,7 @@ header {
     font-size: 1rem;
     cursor: pointer;
     line-height: 1;
+    font-family: 'azuki';
 }
 
 nav {
