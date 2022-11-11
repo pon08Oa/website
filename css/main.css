@@ -88,3 +88,9 @@ footer {
 	border-top: 1px dotted #8c8b8b;
 	border-bottom: 1px dotted #fff;
 }
+
+.post-img {
+    object-fit: cover;
+    width: 20%;
+    height: 20%;
+}
