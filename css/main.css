@@ -83,3 +83,8 @@ footer {
 .font-azuki {
     font-family: 'azuki';
 }
+
+.blog-title-bar {
+	border-top: 1px dotted #8c8b8b;
+	border-bottom: 1px dotted #fff;
+}
