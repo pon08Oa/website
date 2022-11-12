@@ -91,6 +91,7 @@ footer {
 
 .blog-thumb {
     display: flex;
+    position: relative;
 }
 
 .post-img {
@@ -102,4 +103,8 @@ footer {
 .post-date {
     background-color: rgba(211, 211, 211, 0.60);
     color: #000;
+    text-align: right;
+    right: 0;
+    bottom: 0;
+    width: auto;
 }
