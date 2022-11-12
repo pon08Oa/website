@@ -11,6 +11,10 @@
 	border-bottom: 1px dotted #fff;
 }
 
+p {
+    text-indent: 1em;
+}
+
 /*
 MOBILE SIZE ==================== */
 @media screen and (max-width: 900px) {
