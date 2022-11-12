@@ -107,5 +107,8 @@ footer {
     right: 0;
     bottom: 0;
     width: auto;
-    padding: 5rem;
+}
+
+.blog p {
+    text-indent: 1em;
 }
