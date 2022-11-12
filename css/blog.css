@@ -1,0 +1,18 @@
+.blog-title {
+    margin: 0.5rem;
+}
+
+.blog-date {
+
+}
+
+.blog-title-bar {
+	border-top: 1px dotted #8c8b8b;
+	border-bottom: 1px dotted #fff;
+}
+
+/*
+MOBILE SIZE ==================== */
+@media screen and (max-width: 900px) {
+
+}
