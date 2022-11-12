@@ -98,3 +98,8 @@ footer {
     width: 25%;
     height: 25%;
 }
+
+.post-date {
+    background-color: rgba(211, 211, 211, 0.60);
+    color: #000;
+}
