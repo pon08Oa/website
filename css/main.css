@@ -90,20 +90,20 @@ footer {
 }
 
 .blog-thumb {
-    display: flex;
     position: relative;
+    width: 25%;
 }
 
 .post-img {
     object-fit: cover;
-    width: 25%;
-    height: 25%;
+    width: 100%;
 }
 
 .post-date {
     background-color: rgba(211, 211, 211, 0.60);
     color: #000;
     text-align: right;
+    position: absolute;
     right: 0;
     bottom: 0;
     width: auto;
