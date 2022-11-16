@@ -6,6 +6,7 @@ main {
 .content {
     padding-top: 0.5rem;
     padding-bottom: 1rem;
+    display: inline;
 }
 
 p.content {
