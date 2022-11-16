@@ -104,3 +104,11 @@ footer {
     bottom: 0;
     width: auto;
 }
+
+/*
+MOBILE SIZE ==================== */
+@media screen and (max-width: 900px) {
+    .blog-thumb {
+        width: 80%;
+    }
+}
