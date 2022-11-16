@@ -3,6 +3,11 @@ main {
     padding: 1rem 5rem;
 }
 
+.content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 .blog-title {
     left: 5%;
 }
