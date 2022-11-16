@@ -10,6 +10,7 @@ main {
 
 p.content {
     padding-top: 0rem;
+    margin-top: 0.5rem;
 }
 
 .blog-title {
