@@ -6,7 +6,6 @@ main {
 .content {
     padding-top: 0.5rem;
     padding-bottom: 1rem;
-    display: inline;
 }
 
 p.content {
@@ -89,7 +88,6 @@ MOBILE SIZE ==================== */
     .content {
         padding-top: 1rem;
         padding-bottom: 1rem;
-        display: none;
     }
 
 }
