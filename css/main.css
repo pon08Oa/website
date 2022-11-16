@@ -87,6 +87,7 @@ footer {
 .blog-thumb {
     position: relative;
     width: 25%;
+    padding: 1rem;
 }
 
 .post-img {
